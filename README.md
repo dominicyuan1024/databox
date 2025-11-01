@@ -1,6 +1,8 @@
 # databox
+
+https://dominicyuan1024.github.io/databox  
 一个 gis 数据可视化示例项目  
-使用 arcgis地图 + echarts图表的炫酷展示页面  
+使用 arcgis 地图 + echarts 图表的炫酷展示页面  
 该类项目常见于中国政府智慧城市相关应用
 
 <img src="docs/index.png" width="400px" />
@@ -25,4 +27,3 @@ npm run serve
 ```
 npm run build
 ```
-

@@ -1,4 +1,6 @@
 # databox
+
+https://dominicyuan1024.github.io/databox  
 A GIS data visualization sample project  
 Using ArcGIS maps + ECharts charts for a cool display page  
 This type of project is commonly seen in smart city applications by the Chinese government
@@ -25,4 +27,3 @@ npm run serve
 ```
 npm run build
 ```
-
