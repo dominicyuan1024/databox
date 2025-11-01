@@ -1,0 +1,60 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": { "id": "440305", "nick": "青龙区", "name": "南山区", "site": "www.poi86.com" },
+        "geometry": { "type": "Point", "coordinates": [113.95140950472337, 22.563108116059396] }
+      },
+      {
+          "type": "Feature",
+          "properties": { "id": "440306", "nick": "白虎区", "name": "宝安区", "site": "www.poi86.com" },
+          "geometry": { "type": "Point", "coordinates": [113.852844, 22.673385] }
+        },
+      {
+        "type": "Feature",
+        "properties": { "id": "440304", "nick": "玄武区", "name": "福田区", "site": "www.poi86.com" },
+        "geometry": { "type": "Point", "coordinates": [114.04024930903783, 22.55598722886297] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": "440307", "nick": "朱雀区", "name": "龙岗区", "site": "www.poi86.com" },
+        "geometry": { "type": "Point", "coordinates": [114.251577, 22.720233] }
+      },      {
+        "type": "Feature",
+        "properties": { "id": "440307", "nick": "朱雀区1", "name": "龙岗区", "site": "www.poi86.com" },
+        "geometry": { "type": "Point", "coordinates": [114.123734, 22.642585] }
+      },
+      {
+          "type": "Feature",
+          "properties": { "id": "4403072", "nick": "朱雀区2", "name": "龙岗区2", "site": "www.poi86.com" },
+          "geometry": { "type": "Point", "coordinates": [114.498949, 22.595312]}
+        },
+      {
+        "type": "Feature",
+        "properties": { "id": "440311", "nick": "鲲鹏区", "name": "光明区", "site": "www.poi86.com" },
+        "geometry": { "type": "Point", "coordinates": [113.92772294144854, 22.755678968412948] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": "440308", "nick": "荒牛区", "name": "盐田区", "site": "www.poi86.com" },
+        "geometry": { "type": "Point", "coordinates": [114.24490947026023, 22.590529559479563] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": "440303", "nick": "玉兔区", "name": "罗湖区", "site": "www.poi86.com" },
+        "geometry": { "type": "Point", "coordinates": [114.14238158051296, 22.57063242564101] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": "440309", "nick": "白蛇区", "name": "龙华区", "site": "www.poi86.com" },
+        "geometry": { "type": "Point", "coordinates": [114.03056192034839, 22.71116512321094] }
+      },
+      {
+        "type": "Feature",
+        "properties": { "id": "440310", "nick": "天狗区", "name": "坪山区", "site": "www.poi86.com" },
+        "geometry": { "type": "Point", "coordinates": [114.37569994458636, 22.71063891901107] }
+      }
+    ]
+  }
+  

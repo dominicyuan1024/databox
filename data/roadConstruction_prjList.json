@@ -1,0 +1,32 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "ProjectName": "示例高速一标段",
+      "Mileage": 32.5,
+      "BudgetInvestment": 45.3,
+      "PlanTrafficMonth": "2026-12",
+      "ProjectStatusCn": "在建",
+      "ProjectNatureCn": "改扩建"
+    },
+    {
+      "ProjectName": "示例国道二标段",
+      "Mileage": 18.7,
+      "BudgetInvestment": 12.8,
+      "PlanTrafficMonth": "2025-09",
+      "ProjectStatusCn": "在建",
+      "ProjectNatureCn": "新建"
+    },
+    {
+      "ProjectName": "示例省道三标段",
+      "Mileage": 24.1,
+      "BudgetInvestment": 20.0,
+      "PlanTrafficMonth": "2025-06",
+      "ProjectStatusCn": "前期",
+      "ProjectNatureCn": "新建"
+    }
+  ],
+  "message": "mock: roadConstruction prjList"
+}
+
+

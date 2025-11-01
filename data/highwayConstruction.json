@@ -1,0 +1,20 @@
+{
+  "code": 0,
+  "data": [
+    {
+      "projectId": 1,
+      "projectName": "示例高速一标段",
+      "progress": 68,
+      "status": "在建"
+    },
+    {
+      "projectId": 2,
+      "projectName": "示例国道二标段",
+      "progress": 42,
+      "status": "在建"
+    }
+  ],
+  "message": "mock: highwayConstruction"
+}
+
+

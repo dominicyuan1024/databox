@@ -1,0 +1,11 @@
+{
+  "code": 0,
+  "data": [
+    { "name": "大桥一号", "type": "桥梁", "status": "在建" },
+    { "name": "隧道A", "type": "隧道", "status": "在建" },
+    { "name": "互通枢纽X", "type": "枢纽", "status": "前期" }
+  ],
+  "message": "mock: highwayConstruction ctl"
+}
+
+
