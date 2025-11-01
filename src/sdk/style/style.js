@@ -1,0 +1,20 @@
+const cssString = `
+.esri-popup__header,.esri-popup__footer,.esri-popup__pointer{
+    display:none;
+}
+.esri-popup__content{
+    margin:0;
+}
+.esri-popup__main-container{
+    background:transparent;
+    max-height: unset;
+}
+.esri-popup--shadow{
+    box-shadow: none;
+}
+`;
+export const styleInsert = function() {
+  let $style = document.createElement("style");
+  $style.innerHTML = cssString;
+  document.body.appendChild($style);
+};

@@ -1,0 +1,13 @@
+/*
+基于 1920px 的设计稿 1rem = 14px;
+计算公式 14(px)/( 1920(px)/100(vw) )
+ */
+html {
+  font-size: 0.7291666666666667vw;
+}
+
+@media only screen and (max-width: 1920px) {
+  html {
+    font-size: 14px;
+  }
+}

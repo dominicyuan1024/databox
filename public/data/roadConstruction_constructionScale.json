@@ -1,0 +1,32 @@
+{
+  "code": 0,
+  "data": {
+    "GgPrjCount": 12,
+    "DgPrjCount": 8,
+    "GdPrjCount": 20,
+    "SdPrjCount": 35,
+    "TotalMileage": 1580.5,
+    "GsglTotalPrjCount": 15,
+    "GsgdTotalPrjCount": 25,
+    "ncglProjCount": 5,
+    "GsglYkgPrjCount": 6,
+    "GsglSydkgPrjCount": 4,
+    "GsglWkgPrjCount": 5,
+    "GsglYtcPrjCount": 3,
+    "GsgdYkgPrjCount": 10,
+    "GsgdSydkgPrjCount": 7,
+    "GsgdWkgPrjCount": 8,
+    "GsgdYtcPrjCount": 6,
+    "GgTotalMileage": 320.2,
+    "DgTotalMileage": 210.1,
+    "GdTotalMileage": 540.0,
+    "SdTotalMileage": 510.2,
+    "GgTotalMileageNot": 50.0,
+    "DgTotalMileageNot": 30.0,
+    "GdTotalMileageNot": 80.0,
+    "SdTotalMileageNot": 70.0
+  },
+  "message": "mock: roadConstruction constructionScale"
+}
+
+
