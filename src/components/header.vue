@@ -1,7 +1,7 @@
 <template>
   <div class="oneMapPlus-header">
     <div class="header ">
-      <div class="tjjztime"><p>统计截止时间：2020年5月20日 13:16:23 (本应用数据纯属虚构，切勿当真！)</p></div>
+      <div class="tjjztime"><p>Copyright © 2025 DominicYuan1024 (此应用数据纯属虚构！)</p></div>
       <div class="header-title fullbg">{{ title }}</div>
       <div class="header-tool">
         <!-- <div class="header-time header-tool-item">
@@ -155,5 +155,7 @@ export default {
   display: flex;
   align-items: center;
   margin-left: 2rem;
+  opacity: 0.4;
+  font-size: 1rem;
 }
 </style>
