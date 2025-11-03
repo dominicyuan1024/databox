@@ -3,7 +3,7 @@ import axios from "axios";
 const server = {
   // 公路-项目列表
   get_prjlist(params) {
-    return axios.get("/data/roadConstruction_prjList.json", { params });
+    return axios.get("./data/roadConstruction_prjList.json", { params });
   }
 };
 const state = {

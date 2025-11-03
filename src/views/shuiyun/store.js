@@ -3,15 +3,15 @@ import axios from "axios";
 const server = {
   // 公路-控制性工程
   get_ctl() {
-    return axios.get("/data/highwayConstruction_ctl.json");
+    return axios.get("./data/highwayConstruction_ctl.json");
   },
   // 公路-形象进度
   get_highwayConstruction() {
-    return axios.get("/data/highwayConstruction.json");
+    return axios.get("./data/highwayConstruction.json");
   },
   // 公路-建设规模
   get_constructionScale() {
-    return axios.get("/data/roadConstruction_constructionScale.json");
+    return axios.get("./data/roadConstruction_constructionScale.json");
   }
 };
 const state = {

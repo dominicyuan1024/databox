@@ -7,27 +7,27 @@ export default {
   serverConfigs: [
     {
       layerName: "areas",
-      url: "./map/shenzhen/areas.geoJson",
+      url: "./map/shenzhen/areas.geojson",
       type: "GeoJSONLayer"
     },
     {
       layerName: "railways",
-      url: "./map/shenzhen/railways.geoJson",
+      url: "./map/shenzhen/railways.geojson",
       type: "GeoJSONLayer"
     },
     {
       layerName: "rivers",
-      url: "./map/shenzhen/rivers.geoJson",
+      url: "./map/shenzhen/rivers.geojson",
       type: "GeoJSONLayer"
     },
     {
       layerName: "motorway",
-      url: "./map/shenzhen/ways/motorway.geoJson",
+      url: "./map/shenzhen/ways/motorway.geojson",
       type: "GeoJSONLayer"
     },
     {
       layerName: "primary",
-      url: "./map/shenzhen/ways/primary.geoJson",
+      url: "./map/shenzhen/ways/primary.geojson",
       type: "GeoJSONLayer"
     },
     {

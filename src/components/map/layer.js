@@ -157,14 +157,14 @@ export function railwaysLoad() {
 export async function railwaysLoadColorful() {
   const mapId = config.mapConfigs[0].id;
   fw.cameraCtrl.toLayer(mapId, areas);
-  const res = await axios.get("/map/shenzhen/railways.geojson");
+  const res = await axios.get("./map/shenzhen/railways.geojson");
   fw.layerCtrl.createLineColorfulLayer(mapId, railways, res.data);
 }
 
 export const rivers = "rivers";
 export async function riversLoad2() {
   const mapId = config.mapConfigs[0].id;
-  const res = await axios.get("/map/shenzhen/rivers.geojson");
+  const res = await axios.get("./map/shenzhen/rivers.geojson");
   const gj = res.data;
 
   // Build ECharts lines data from GeoJSON
@@ -234,7 +234,7 @@ export async function airportsLoad(areaName = "白蛇区") {
   if (airportsLayer) {
     fw.layerCtrl.closeLayer(mapId, airports);
   }
-  const res = await axios.get("/map/shenzhen/airports.geojson");
+  const res = await axios.get("./map/shenzhen/airports.geojson");
   const gj = res.data;
   // collect points
   const points = (gj.features || [])
